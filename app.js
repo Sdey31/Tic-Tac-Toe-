@@ -5,7 +5,7 @@ let newBtn = document.querySelector('.new-btn');
 let msgContainer = document.querySelector('.msg-container');
 let msgpara = document.querySelector("#msg");
 
-let turnO = true;   //player X or player O
+let turnO = true;   //playerX or playerO
 
 let winpatterns = [
     [0,1,2],
